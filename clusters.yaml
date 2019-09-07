@@ -1,0 +1,10 @@
+clusters:
+- alias: hasura
+  data: null
+  infra:
+    provider: hasura-free
+- alias: minikube
+  data: null
+  infra:
+    provider: minikube
+version: v1
